@@ -100,4 +100,4 @@ def get_scatter(payload, entered_site):
 
 # Run the app
 if __name__ == '__main__':
-    app.run_server()
+    app.run_server() 
